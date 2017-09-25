@@ -1,0 +1,29 @@
+{
+  "name": "genetic-js",
+  "version": "0.1.14",
+  "description": "Advanced genetic and evolutionary algorithm library",
+  "main": "lib/genetic.js",
+  "scripts": {
+    "test": "make check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/subprotocol/genetic-js"
+  },
+  "bugs": {
+    "url": "https://github.com/subprotocol/genetic-js/issues"
+  },
+  "keywords": [
+    "genetic",
+    "evolution",
+    "algorithm"
+  ],
+  "author": "subprotocol <smprotocol@gmail.com> (http://subprotocol.com/)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "browserify": "~5.10.0",
+    "uglify-js": "~2.4.15",
+	"mocha": "~1.21.4"
+  }
+}
