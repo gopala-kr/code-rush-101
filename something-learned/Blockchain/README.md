@@ -1,1 +1,1 @@
-everything about blockchain technology
+Notes blockchain technology
