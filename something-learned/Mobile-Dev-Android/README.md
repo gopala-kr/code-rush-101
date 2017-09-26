@@ -1,0 +1,1 @@
+notes on android dev
