@@ -1,1 +1,1 @@
-imp blogs and articles
+blogs and articles I explore
