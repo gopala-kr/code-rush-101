@@ -1,4 +1,4 @@
-"""Generate the table of contents and insert it at the top of README.md."""
+"""Generate the table of contents and insert it at the top of README.md.""
 
 
 import re
