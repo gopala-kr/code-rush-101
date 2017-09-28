@@ -1,0 +1,26 @@
+{
+  "name": "functional-programming-jargons",
+  "version": "1.0.0",
+  "description": "Jargon from the functional programming world in simple terms!",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint readme.md",
+    "toc": "roadmarks"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanth/functional-programming-jargon.git"
+  },
+  "author": "hemanth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth/functional-programming-jargon/issues"
+  },
+  "homepage": "https://github.com/hemanth/functional-programming-jargon#readme",
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.2",
+    "roadmarks": "^1.6.3"
+  }
+}
