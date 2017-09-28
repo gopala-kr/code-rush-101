@@ -1,0 +1,49 @@
+# This file is used to configure the "ghizmo assemble-authors" command.
+
+header: |
+  This “Open Guide” is a collaborative effort.
+  It was begun and is led by [@jlevy](https://github.com/jlevy) and [@ThanosBaskous](https://github.com/ThanosBaskous),
+  but the content is the result of a community of contributors, editors, and experts.
+  Please help if you can. See the [contribution guidelines](CONTRIBUTING.md) for notes on roles and editorial process.
+
+footer: |
+  Contributors are listed alphabetically with assigned roles first.
+  Please don't PR the AUTHORS.md or authors-info.yml files! It is auto-generated regularly by the project leads.
+  Please let the project leads know of any errors or omissions on this list.
+
+exclude:
+  gitter-badger
+  ReadmeCritic
+
+roles:
+  jlevy: project lead, editor (topics not otherwise assigned)
+  ThanosBaskous: project lead, editor (topics not otherwise assigned)
+  QuinnyPig: community lead, editor (news and updates, cost management)
+  max-zanko: editor (EC2, S3, Glacier, EMR, Redshift)
+  nitingithub: editor (cost management)
+  forwidur: editor (EBS, RDS)
+  lynnlangit: editor (IoT)
+  richadams: editor (VPC)
+  artemnikitin: editor (Certificate Manager)
+  bgdnlp: editor (EFS)
+  JCBarry: editor (CloudWatch)
+  nzoschke: editor (KMS)
+  lobster1234: editor (Batch, SQS, SNS)
+  donnemartin: expert (tools)
+  merrells: expert (cloud infrastructure, when to use AWS)
+  benkehoe: expert (IoT)
+  ehammond: expert (Lambda, serverless)
+  danhermann: expert (RDS)
+  kimschmidtsbrain: expert (AWS Marketplace, Aurora)
+  wumintendy: expert (ECS, CloudWatch, SQS, RDS, WAF)
+  lukedeo: expert (machine learning, Terraform, orchestration)
+  marcello3d:
+  golyshev:
+  Praveen Patnala:
+  kazuyukitanimura:
+  olawiberg:
+  weirded:
+  bittlingmayer:
+  rjpower:
+  alexanderatallah:
+  Jurgen Philippaerts:
