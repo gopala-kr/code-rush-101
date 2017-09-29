@@ -1,4 +1,4 @@
-## Google Cloud - Learning Material
+## Google Cloud Platform
 
 Below is the learning material that will help you learn about Google Cloud. 
 
