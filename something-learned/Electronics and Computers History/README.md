@@ -16,7 +16,6 @@
   - [Announcements](#announcements)
 - [Source Code](#source-code)
 - [Websites](#websites)
-- [License](#license)
 
 ## Videos
 
