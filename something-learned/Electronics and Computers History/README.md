@@ -1,4 +1,4 @@
-### Notes on electronics and Compueters roadmap
+### Notes on electronics and Compueters history & roadmap
 
 ## Table of Contents
 
