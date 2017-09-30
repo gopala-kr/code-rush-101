@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>JavaScript Patterns</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+		<script>
+			/* Title: event delegation
+			 Description: event delegation pattern and antipattern
+			 */
+
+			// antipattern
+			$('a.trigger', $('#container')[0]).live('click', handlerFn);
+
+
+			// preferred
+			$('#container').on('click', 'a.trigger', handlerFn);
+
+			// .bind()
+			// .live() - best used for simple scenario, it functions the best with a supply selector only, it's not chainable
+			// .delegate() - it gives you a more focused way, it can better filter the elements, for example, table row
+
+
+			// References
+			// http://paulirish.com/2009/perf/
+		</script>
+	</body>
+</html>
