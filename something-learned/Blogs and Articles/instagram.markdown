@@ -1,0 +1,62 @@
+[Instagram](http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2735)
+================
+Mike Krieger and Kevin Systrom
+---
+
+- Experience is what matters, try your best to get it first-hand.
+- Initial intern at a startup which made me(Kevin) interested in starting my own company
+- First myth: You can learn to be entrepreneur from a book, blog or talk
+  - Reality:
+    - One day at job > 1yr of learning online
+    - Experience teaches you to make better decisions with limited data
+    - Its easy to be caught up in the meta part of entreprenuership: like attending startups events
+    - The truth: You're never ready, but thats the fun part
+    - The only thing that matters: How users like your product
+    - You can ship products without having a computer science degree
+- Second Myth: Startups can only be started by computer science students
+  - Reality:
+    - Early twitter team never went to college, Kevin and I didnt major in CS
+    - Sink or swim school of engineering
+    - Generalists are perfects for startups
+    - Find co-founders that complement you
+- Third Myth: Finding the solution to the problem is the hardest part
+  - Reality:
+    - Finding the problem to solve is the hardest part
+    - Its easy to build solutions to problems no one have
+    - How do you know if you're solving the right problems?
+    - It's ok to solve simple problems
+    - Once you've made a solution to a problem, its really necessary to find out if people really have that problem. Best way to get this done is to get the product out in front of the users
+    - Scaling a product which solves a simple problem is a hard problem
+- Fourth Myth: Work for months building a robust product in secrecy, then launch to the world
+  - Reality:
+    - Problem with stealth startups: esp for consumer internet, you dont feedback when you should have. Putting in front of people is the most learning experience.
+    - Building a MVP is really important.
+    - Fail early and often, make failing as low cost as possible.
+    - Your job: fail your way to success
+- Fifth Myth: Start a bidding war among VCs with a slick pitch deck
+  - Reality:
+    - Raise only what you need to get off the ground(not that much)
+    - Optimize for people, not valuation
+    - Focus on a prototype and traction, not a fancy pitch deck
+    - You dont need a lot of money to get started.
+- Sixth Myth: Starting a company is building a product
+  - Reality:
+    - Starting a company is 50% building a product and 50% other stuff
+    - Recruiting, building and managing a team
+    - Raising capital
+    - Bank accounts, Taxes, forms, insurance, etc. 
+- Seventh Myth: Successful startups come from a single great idea
+  - Reality:
+    - You dont need a great idea, just keep looking in the solution space, until you can find something that you can do better
+    - Themes will follow you
+    - Sharing and discussing helps
+- Eight Myth: Greate startups happen overnight
+  - Reality:
+    - Overnight successes take 5 years
+    - Success comes from the foundations you've built along the way
+    - Even with the right idea, you're fighting to the next hill
+    - Success can seem obvious, but in reality it's never that clear
+    - Its a long slog!
+- Best time to start is now!
+- Hunger to build stuff and putting in front of people is awesome
+- Work life balance is super important. There are things you need to give up, there are distractions you need to remove.
