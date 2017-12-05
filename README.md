@@ -1,4 +1,4 @@
-##Code Rush-101
+**Code Rush-101**
 
 I'm always keen to learn new concepts and ideas that will allow me to have a better understanding of internet". 
 
