@@ -6,3 +6,6 @@ greatest invention "THE INTERNET".
 I hope to grow this repo with the information of my exploration from Enigma machine to artificial neurons.
 
 The intention of this repository is simply to help me retain all the information that I learn. 
+
+
+https://github.com/gopala-kr/code-rush-101/tree/master/something-learned
