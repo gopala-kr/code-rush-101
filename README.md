@@ -1,4 +1,4 @@
-**Code Rush-101**
+[**Code Rush-101**](https://github.com/gopala-kr/code-rush-101/tree/master/something-learned)
 
 I'm always keen to learn new concepts and ideas that will allow me to have a better understanding of internet". 
 
